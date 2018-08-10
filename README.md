@@ -1,5 +1,5 @@
 # Weekly-Report
-..* Weekly Report #1
+* Weekly Report #1
 ...GitHub and Linux Tutorials
 ...Plots some real and simulated Ar events
 ..* Weekly Report #2
