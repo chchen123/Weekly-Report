@@ -19,3 +19,10 @@
 
   Plots objective function values of several experimental runs for two Ar experiments  
   Plots the objective function value of proton events filtered by Jack Taylor's proton classification code
+* **Weekly Report 8/27**
+
+  Examines the Chi^2 histogram for Ar46’s Monte Carlo fitting results
+* **Weekly Report 9/4**
+
+  Examines the Chi^2 histogram for Ar46’s position and energy MC fitting
+  Proton classification using Jack's code; plotting of proton-like events
