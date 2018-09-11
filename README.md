@@ -26,3 +26,6 @@
 
   Examines the Chi^2 histogram for Ar46’s position and energy MC fitting
   Proton classification using Jack's code; plotting of proton-like events
+* **Weekly Report 9/11**
+
+  Closely examines Jack's proton labels of run_0130 by plotting the histograms of fitting results (total events and proton events) using various methods
