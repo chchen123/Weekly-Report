@@ -32,4 +32,5 @@
 * **Weekly Report 9/18**
 
   Fits each component of chi^2 value using Monte carlo, differential evolution, and basin hopping method
+  
   Tunes differential evolution function parameters
