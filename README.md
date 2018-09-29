@@ -33,3 +33,8 @@
 
   Fits each component of chi^2 value using Monte carlo, differential evolution, and basin hopping method  
   Tunes differential evolution function parameters
+* **Weekly Report 9/25**
+
+  Fits each component of chi^2 value (for proton events only) using Monte carlo, differential evolution, and basin hopping method  
+  Tunes basin hopping function parameters 
+  Modifies the objective function by scaling down the position chi^2 component 
