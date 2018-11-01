@@ -46,6 +46,7 @@
   Plotting 46Ar proton events for DNP poster  
   Coding the Monte Carlo fitting for proton tracks - continued  
 * **Weekly Report 10/30**
+
   Monte-Carlo iteration #1 (finished)  
   Recap of trip to Hawaii  
   
