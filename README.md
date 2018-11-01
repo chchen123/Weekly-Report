@@ -41,3 +41,11 @@
 * **Weekly Report 10/02**
 
   Closely examines and modify the energy component of the chi^2 function. 
+* **Weekly Report 10/16**
+
+  Plotting 46Ar proton events for DNP poster
+  Coding the Monte Carlo fitting for proton tracks - continued
+* **Weekly Report 10/30**
+  Monte-Carlo iteration #1 (finished)
+  Recap of trip to Hawaii
+  
