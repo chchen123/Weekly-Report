@@ -50,3 +50,11 @@
   Monte-Carlo iteration #1 (finished)  
   Recap of trip to Hawaii  
   
+* **Weekly Report 10/30**
+
+  Finish coding Monte-Carlo algorithms with two objective functions  
+  Compare accuracies of the two objective functions  
+
+* **Meeting 11/7**
+
+  Application of Track Classification  
