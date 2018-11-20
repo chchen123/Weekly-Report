@@ -58,6 +58,6 @@
 * **Meeting 11/7**
 
   Application of Track Classification  
-* **Meeting 11/13**
+* **Weekly Report 11/13**
 
   Christina's Chi^2 2.0: chi squared functions  
