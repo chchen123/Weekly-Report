@@ -58,3 +58,6 @@
 * **Meeting 11/7**
 
   Application of Track Classification  
+* **Meeting 11/13**
+
+  Chi^2 2.0: chi squared functions  
