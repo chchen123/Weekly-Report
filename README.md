@@ -60,4 +60,4 @@
   Application of Track Classification  
 * **Meeting 11/13**
 
-  Chi^2 2.0: chi squared functions  
+  Christina's Chi^2 2.0: chi squared functions  
